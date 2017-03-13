@@ -1,0 +1,24 @@
+{
+  "name": "non-blocking",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "tundergod",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tundergod/learn_nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tundergod/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/tundergod/learn_nodejs#readme"
+}
